@@ -1,4 +1,4 @@
-# ragged-arrays-lab
+# Ragged_Arrays_Lab
 
 Tiny Java demo of **ragged 2D arrays**:
 - Create ragged rows from widths (e.g., 2, 5, 5)
@@ -24,3 +24,4 @@ Do not submit it as a class assignment.
 ## License
 
 MIT
+
